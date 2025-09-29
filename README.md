@@ -34,6 +34,9 @@ React frontend for [HospitalRun](http://hospitalrun.io/): free software for deve
 - How do I run tests locally?
 - How do I submit my changes?
 - etc.
+npm install && npm start
+npm install && npm run dev
+
 
 # License
 
